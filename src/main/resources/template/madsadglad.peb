@@ -5,17 +5,17 @@
     <h3>Please vote !</h3>
 
 <div class="card-deck">
-  <div class="card text-white text-center bg-danger border-danger">
+  <div class="card text-white text-center bg-1-sur-3">
     <div class="card-body" data-score="1">
       <img class="card-img-top" src="../images/mad.png" alt="Card image cap">
     </div>
   </div>
-  <div class="card text-white text-center bg-warning border-warning">
+  <div class="card text-white text-center bg-2-sur-3">
     <div class="card-body" data-score="2">
       <img class="card-img-top" src="../images/sad.png" alt="Card image cap">
     </div>
   </div>
-  <div class="card text-white text-center bg-success border-success">
+  <div class="card text-white text-center bg-3-sur-3">
     <div class="card-body" data-score="3">
       <img class="card-img-top" src="../images/glad.png" alt="Card image cap">
     </div>

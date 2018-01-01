@@ -10,3 +10,15 @@ a, a:hover {
 .card-body>img {
 	max-width: 128px;
 }
+
+.bg-1-sur-3 {
+	background-color: #FE2712 !important;
+}
+
+.bg-2-sur-3 {
+	background-color: #FABC02 !important;
+}
+
+.bg-3-sur-3 {
+	background-color: #66B032 !important;
+}

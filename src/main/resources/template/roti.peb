@@ -1,0 +1,38 @@
+{% extends "template/base.peb" %}
+
+{% block content %}
+
+    <h3>Please vote !</h3>
+
+<div class="card-deck">
+  <div class="card text-white text-center bg-danger">
+    <div class="card-body">
+      <h4 class="card-title">1</h4>
+    </div>
+  </div>
+  <div class="card text-white text-center bg-secondary">
+    <div class="card-body">
+      <h4 class="card-title">2</h4>
+    </div>
+  </div>
+  <div class="card text-white text-center bg-warning">
+    <div class="card-body">
+      <h4 class="card-title">3</h4>
+    </div>
+  </div>
+  <div class="card text-white text-center bg-primary">
+    <div class="card-body">
+      <h4 class="card-title">4</h4>
+    </div>
+  </div>
+  <div class="card text-white text-center bg-success">
+    <div class="card-body">
+      <h4 class="card-title">5</h4>
+    </div>
+  </div>
+</div>
+
+
+    <h4>Thank you !</h4>
+
+{% endblock %}
